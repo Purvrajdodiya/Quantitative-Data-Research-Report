@@ -1,4 +1,4 @@
-The assignment is a research-like report in APA style. You are expected to write:
+research-like report in APA style. You are expected to write:
 A BRIEF introduction outlining the rationale for your hypotheses (10% of marks). You can rely on common sense, no previous theoretical background in relation to the data set is needed. 
 A methods section detailing which analyses were chosen to address your hypotheses along with appropriate justification (20% of marks).
 A clear results section outlining up to 4 separate analyses (50% of marks).
